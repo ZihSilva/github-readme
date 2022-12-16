@@ -9,9 +9,8 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Front-end%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f92c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-Welcome to my profile! I love learning and exploring new technologies. Besides programming, I am interested in music, design, movies, and mindfulness.
-Thanks for visiting and  love to connect!
-
+Welcome to my profile! I am a frontend web developer, who loves new technologies and a good challange. I build websites using HTML, CSS, Javascript and React. I also know my way around in CMS like Wordpress. I am always trying to find new ways to layout content in interesting and intricate ways – who wants to have boring websites, right? 
+Besides programming, I am interested in music, design, movies, and mindfulness.
 
  <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
@@ -23,9 +22,8 @@ Thanks for visiting and  love to connect!
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+
 
 
   <h3>🧰 Frameworks and Libraries</h3>
@@ -74,10 +72,15 @@ Thanks for visiting and  love to connect!
 
  </h3>
  
- 
   <summary><h2>Feel free to connect:</h2></summary>
 
-  <p><a href="https://www.linkedin.com/in/zimarlen-silva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
+  <p>  
+  <a href="https://www.linkedin.com/in/zimarlen-silva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>  
+  <a href="zimarlensilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a> 
+  </p>
+  <h3>Thank you for visiting!</>
 
 
 
